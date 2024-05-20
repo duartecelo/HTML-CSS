@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1{
+    color:darkcyan;
+}
+h2{
+    color:red;
+}
+p{
+    background-color: aqua;
+    text-align: justify;
+}
