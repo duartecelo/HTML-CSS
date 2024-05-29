@@ -8,6 +8,9 @@
 body{
     background-color: #D3D3D3;
 }
+::-webkit-scrollbar{
+    width: 0px;
+}
 
 header{
     background-color: #949494;
@@ -16,6 +19,7 @@ h1{
     color: black;
     padding: 10px;
     text-align: center;
+
 }
 #burguer{
     display: block;
@@ -54,6 +58,7 @@ a:hover{
 }
 
 main{
+    width: 90vw;
     background-color: #ffffff;
     margin: auto;
     margin-top: 10px;
@@ -64,4 +69,5 @@ main{
 }
 p{
     text-indent: 1em;
+    padding: 10px;
 }
